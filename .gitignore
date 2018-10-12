@@ -3,6 +3,7 @@
 
 # misc
 .env
+config.js
 package-lock.json
 yarn.lock
 
